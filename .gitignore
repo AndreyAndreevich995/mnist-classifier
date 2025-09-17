@@ -1,6 +1,6 @@
 # Default ignored files
 /shelf/
-/workspace.xml
+/.idea/workspace.xml
 # Editor-based HTTP Client requests
 /httpRequests/
 # Environment-dependent path to Maven home directory
@@ -9,3 +9,13 @@
 /dataSources/
 /dataSources.local.xml
 
+/.idea/copilot.data.migration.agent.xml
+/.idea/copilot.data.migration.user.xml
+/.idea/modules.xml
+/.idea/vcs.xml
+/.idea/workspace.xml
+/.idea/misc.xml
+/logs
+/results
+/.idea/*.iml
+*.iml
