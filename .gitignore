@@ -11,5 +11,6 @@
 
 /logs
 /results
-mnist-classifier.iml
 .idea
+*.iml
+mnist-classifier.iml
