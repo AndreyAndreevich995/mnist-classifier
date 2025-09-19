@@ -9,13 +9,7 @@
 /dataSources/
 /dataSources.local.xml
 
-/.idea/copilot.data.migration.agent.xml
-/.idea/copilot.data.migration.user.xml
-/.idea/modules.xml
-/.idea/vcs.xml
-/.idea/workspace.xml
-/.idea/misc.xml
 /logs
 /results
-/.idea/*.iml
-*.iml
+mnist-classifier.iml
+.idea
